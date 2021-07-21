@@ -5,10 +5,10 @@ From a computational perspective, the Extendability problem focuses on the quest
 
 ### Refferences
 ---------------
-1] R.E.L. Aldred, D.A. Holton, Dingjun Lou, Akira Saito, M-alternating paths in n-extendable bipartite graphs, Discrete Mathematics 269 (2003), pp. 3-7.\
+1] R.E.L. Aldred, D.A. Holton, Dingjun Lou, Akira Saito, M-alternating paths in n-extendable bipartite graphs, Discrete Mathematics 269 (2003), pp. 3-7.
 
-2] J. Lakhal, L. Litzler, A polynomial algorithm for the extendability problem in bipartite graphs, Information Processing Letters 65 (1998), pp. 11-15.\
+2] J. Lakhal, L. Litzler, A polynomial algorithm for the extendability problem in bipartite graphs, Information Processing Letters 65 (1998), pp. 11-15.
 
-3] Dingjun Lou, Akira Saito, Lihua Teng, A note on internally disjoint alternating paths in bipartite graphs, Discrete Mathematics 290 (2005), pp. 105-108.\
+3] Dingjun Lou, Akira Saito, Lihua Teng, A note on internally disjoint alternating paths in bipartite graphs, Discrete Mathematics 290 (2005), pp. 105-108.
 
 4] Jan Hackfeld, Arie M. C. A. Koster, The matching extension problem in general graphs is co-NP-complete, Springer Science+Business Media, LLC, parti of Springer Nature 2017, J Comb Optim (2018), pp. 854-858.
