@@ -4,7 +4,8 @@ There is a detailed structural characterization of bipartite graphs G with perfe
 From a computational perspective, the Extendability problem focuses on the question whether a graph G is k-extendable or not, where pair (G,k) is the input. The extendability of a graph G, denoted by ext(G), is defined as the maximum k for which G is k-extendable. In the general case, this problem is coNP-complete. In the case where graph G is bipartite, there is a polynomial algorithm that computes ext(G). Thus, the aforementioned problem can be decided in a polynomial amount of time on the number of vertices and edges of G.
 
 ### Refferences
-1] R.E.L. Aldred, D.A. Holton, Dingjun Lou, Akira Saito, M-alternating paths in n-extendable bipartite graphs, Discrete Mathematics 269 (2003), pp. 3-7.
-2] J. Lakhal, L. Litzler, A polynomial algorithm for the extendability problem in bipartite graphs, Information Processing Letters 65 (1998), pp. 11-15.
-3] Dingjun Lou, Akira Saito, Lihua Teng, A note on internally disjoint alternating paths in bipartite graphs, Discrete Mathematics 290 (2005), pp. 105-108. 
+---------------
+1] R.E.L. Aldred, D.A. Holton, Dingjun Lou, Akira Saito, M-alternating paths in n-extendable bipartite graphs, Discrete Mathematics 269 (2003), pp. 3-7.\ 
+2] J. Lakhal, L. Litzler, A polynomial algorithm for the extendability problem in bipartite graphs, Information Processing Letters 65 (1998), pp. 11-15.\
+3] Dingjun Lou, Akira Saito, Lihua Teng, A note on internally disjoint alternating paths in bipartite graphs, Discrete Mathematics 290 (2005), pp. 105-108.\ 
 4] Jan Hackfeld, Arie M. C. A. Koster, The matching extension problem in general graphs is co-NP-complete, Springer Science+Business Media, LLC, parti of Springer Nature 2017, J Comb Optim (2018), pp. 854-858.
